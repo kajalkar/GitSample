@@ -1,2 +1,0 @@
-# GitSample
-Git Sample
