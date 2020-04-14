@@ -1,3 +1,0 @@
-select * from dept;
-select * from emp where emp_no=100;
-select * from emp where emp_no=200;
